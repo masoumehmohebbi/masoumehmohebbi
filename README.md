@@ -27,12 +27,16 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 <div align="left" width="100%">
   
-<a href="#">
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi\&layout=donut)](https://github.com/masoumemohebbi/github-readme-stats)
-</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi" width="40%" /> 
+
+<img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi"  /> 
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
+ #
+  <a href="#" title="masoumemohebbi">
+    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi&layout=compact&langs_count=8&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+  </a>
 <br/> 
