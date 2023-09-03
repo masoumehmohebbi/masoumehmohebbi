@@ -28,7 +28,8 @@
 <div align="left" width="100%">
   
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi\&layout=donut)](https://github.com/masoumemohebbi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi"  /> 
