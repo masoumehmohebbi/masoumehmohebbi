@@ -32,10 +32,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra\&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi"  /> 
-</div>
-##
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoumehmohebbi\&rank_icon=github)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
