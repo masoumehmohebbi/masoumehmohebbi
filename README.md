@@ -27,9 +27,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoumemohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
 #
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi" align="center" /></div>  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
 
 <br/> 
