@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi\&layout=donut)](https://github.com/masoumemohebbi/github-readme-stats)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi" align="center" /></div>  
+<div><img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&count_private=true&hide_border=true" alt="masoumemohebbi" align="center" /></div>  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
 
 <br/> 
