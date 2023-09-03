@@ -27,16 +27,10 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 <div align="left" width="100%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoumehmohebbi\&rank_icon=github)
-
-##
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoumemohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumemohebbi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumemohebbi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
 
 <br/> 
