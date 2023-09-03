@@ -37,6 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumemohebbi&" alt="masoumemohebbi" /></p>
  #
   <a href="#" title="masoumemohebbi">
-    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi&layout=compact&langs_count=8&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+    <img width="410" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumemohebbi&layout=compact&langs_count=8&theme=gruvbox&border_color=ffffff&hide_border=true" />
   </a>
 <br/> 
