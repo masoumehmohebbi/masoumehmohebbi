@@ -27,13 +27,9 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 <div align="left" width="100%">
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoumehmohebbi&label=Profile%20views&color=0e75b6&style=flat" alt="masoumehmohebbi" /> </p>
+<p><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></p>
-
-<p align="right"><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></p>
+<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
