@@ -28,9 +28,9 @@
 <div align="left" width="100%">
 
 <div align="center">
-  <a><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></a>
+  <a><img width="410" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></a>
 
-<a><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></a>
+<a><img width="410" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></a>
 
 </div>
 
