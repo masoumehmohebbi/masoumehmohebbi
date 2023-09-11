@@ -30,14 +30,10 @@
 <div align="center">
   <a href="#" title="masoumehmohebbi"><img width="410" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></a>
 
-<a href="#" title="masoumehmohebbi"><img width="410" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></a>
-
-</div>
-
-
-  <a href="#"  title="masoumehmohebbi">
+ <a href="#"  title="masoumehmohebbi">
     <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&" />
-  </a>
+ </a>
+</div>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
 
