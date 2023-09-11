@@ -36,7 +36,7 @@
 
 
   <a href="#"  title="masoumehmohebbi">
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=gruvbox&border_color=AFD41B&hide_border=true" />
+    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&" />
   </a>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
