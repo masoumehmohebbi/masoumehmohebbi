@@ -32,9 +32,7 @@
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=blueberry&count_private=true"
             alt="masoumehmohebbi's Github stats">
     </a>
-     <p  href="#"  title="masoumehmohebbi">
-       <img align="center" width="450px" src="https://streak-stats.demolab.com?user=masoumehmohebbi&theme=gruvbox&hide_border=true&border_radius=5.5" alt="masoumehmohebbi" />
-   </p>
+  
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&layout=compact&theme=blueberry&langs_count=4" alt="masoumehmohebbi's programming languages"/>
     </a>
