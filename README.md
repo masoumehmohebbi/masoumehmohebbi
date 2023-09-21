@@ -32,9 +32,10 @@
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=blueberry&count_private=true"
             alt="masoumehmohebbi's Github stats">
     </a>
-<a href="#"  title="masoumehmohebbi">
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true" />
- </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&theme=blueberry"
+            alt="masoumehmohebbi's Github commit streak">
+    </a>
     <a href="#">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&layout=compact&theme=blueberry&langs_count=4" alt="masoumehmohebbi's programming languages"/>
     </a>
