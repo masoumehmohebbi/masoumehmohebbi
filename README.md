@@ -31,8 +31,8 @@
 <div align="left" width="100%">
 <div align="center">
   <a>
-    ![Image 1]("https://github-readme-stats-sigma-five.vercel.app/api/top-langs?    
-  username=masoumehmohebbi&show_icons=true&locale=en&layout=compact")
+    ![Image 1](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?    
+  username=masoumehmohebbi&show_icons=true&locale=en&layout=compact)
   </a>
   <img width="410" align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?    
   username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" />
