@@ -27,15 +27,8 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 
 
-<div align="center" style="text-align:center">
-     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=blueberry&count_private=true"
-            alt="masoumehmohebbi's Github stats">
-    </a>
- 
-    <a href="#">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&layout=compact&theme=blueberry&langs_count=4" alt="masoumehmohebbi's programming languages"/>
-    </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" /></p>
 
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&locale=en" alt="masoumehmohebbi" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
