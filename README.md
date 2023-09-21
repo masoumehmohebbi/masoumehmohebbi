@@ -33,7 +33,7 @@
             alt="masoumehmohebbi's Github stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.vercel.app/api/?user=masoumehmohebbi&theme=blueberry"
+        <img width="49%" src="https://github-readme-streak.vercel.app/api/?user=masoumehmohebbi&theme=blueberry"
             alt="masoumehmohebbi's Github commit streak">
     </a>
     <a href="#">
