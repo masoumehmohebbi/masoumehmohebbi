@@ -27,30 +27,13 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
 
 
-
-<div align="left" width="100%">
-<div align="center">
-  <a href="#"  title="masoumehmohebbi">
- <img width="410" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?    
-  username=masoumehmohebbi&show_icons=true&locale=en&layout=compact" alt="masoumehmohebbi" />
-  </a>
-  
-
- <a href="#"  title="masoumehmohebbi">
-    <img align="center" width="410" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true" />
- </a>
-
-</div>
-  <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&" alt="masoumehmohebbi" /></p>
-</div>
 <div align="center" style="text-align:center">
     <a href="#">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=blueberry&count_private=true"
             alt="masoumehmohebbi's Github stats">
     </a>
        <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masabbasi&theme=blueberry"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=masoumehmohebbi&theme=blueberry"
             alt="Masoud's Github commit streak">
     </a>
     <a href="#">
