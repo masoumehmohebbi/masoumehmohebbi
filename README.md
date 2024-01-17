@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/masoumemohebbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masoumemohebbi" height="30" width="40" /></a>
 <a href="https://instagram.com/masoume.frontend.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="masoume.frontend.js" height="30" width="40" /></a>
 
-  <a href="https://telegram.me/masoume_mohebbi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
