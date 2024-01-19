@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 🤝 I’m looking for help with **back-end developer**
+- 🤝 I’m looking for a **company** to hire as a front-end developer or a **team** to work on real projects.
 
 - 💬 Ask me about **front-end web development**
 
