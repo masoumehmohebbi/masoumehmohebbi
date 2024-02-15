@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **front-end web development**
 
-- 📫 How to reach me **masoumeh.mohebbi.original@gmail.com**
+- 📫 How to reach me **masoumeh.mohebbi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
