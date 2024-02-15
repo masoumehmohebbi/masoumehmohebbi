@@ -1,4 +1,6 @@
 
+![freeCodeCamp-Recovered](https://github.com/masoumehmohebbi/masoumehmohebbi/assets/88876100/b6023664-3050-47a8-a841-789bd70dc1a0)
+
 <h1 align="center">Hi 👋, I'm Masoume</h1>
 <h3 align="center">Eager Front-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
