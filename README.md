@@ -1,9 +1,9 @@
 
-![freeCodeCamp-Recovered](https://github.com/masoumehmohebbi/masoumehmohebbi/assets/88876100/b6023664-3050-47a8-a841-789bd70dc1a0)
+![MasoumeMohebbi](https://github.com/masoumehmohebbi/masoumehmohebbi/assets/88876100/3d46feab-5876-424a-a1f7-4a8f8c09148d)
 
 <h1 align="center">Hi 👋, I'm Masoume</h1>
 <h3 align="center">Eager Front-end developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masoumehmohebbi&label=Profile%20views&color=0e75b6&style=flat" alt="masoumehmohebbi" /> </p>
