@@ -36,6 +36,7 @@
   </tr>
 </table>
 
+***
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
