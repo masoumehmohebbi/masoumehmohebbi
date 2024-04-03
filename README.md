@@ -1,7 +1,18 @@
 
 ![MasoumeMohebbi](https://github.com/masoumehmohebbi/masoumehmohebbi/assets/88876100/3d46feab-5876-424a-a1f7-4a8f8c09148d)
 
-<h1 align="center">Hi 👋, I'm Masoume</h1>
+<div align="center">
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+</h3> 
+  
+<p align="center">
+<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/Telegram-FFA116?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+<a href="https://instagram.com/masoume.frontend.js"><img src="https://img.shields.io/badge/Instagran-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="masoumeh.mohebbi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+</p>  
+</div>
+
 <h3 align="center">Eager Front-end developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"> -->
 
@@ -55,7 +66,7 @@
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-***  ***
+***
   
   **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
@@ -64,14 +75,4 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&theme=dark&hide_border=true&layout=compact"></td>
   </tr>
 </table>
-<div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
-</h3> 
-  
-<p align="center">
-<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/Telegram-FFA116?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
-<a href="https://instagram.com/masoume.frontend.js"><img src="https://img.shields.io/badge/Instagran-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="masoumeh.mohebbi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-</p>  
-</div>
+
