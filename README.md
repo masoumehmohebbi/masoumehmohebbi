@@ -43,13 +43,15 @@
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
 
+- State Managment: &nbsp;
+ - ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
+
+- Styles : &nbsp;
+ - ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) • ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) • ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) • 
+  
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-- Tools: &nbsp;
- - ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) • ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux) • ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
-- ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) • ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap) • ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) • 
-  
 ***
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
