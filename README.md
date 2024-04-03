@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **masoumeh.mohebbi@gmail.com**
   
--  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PhO3SZmTmDoO83PsWVXZnnjoFy_x1q9z/view?usp=drive_link).
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PhO3SZmTmDoO83PsWVXZnnjoFy_x1q9z/view?usp=drive_link23).
 
 
 
@@ -26,15 +26,6 @@
 <p align="left">&nbsp; <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
  
-  ***
-  
-  **⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=dark&locale=en&hide_border=true" alt="masoumehmohebbi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&theme=dark&hide_border=true&layout=compact"></td>
-  </tr>
-</table>
 
 ***
 **🛠 &nbsp;Tech Stack**
@@ -64,7 +55,15 @@
 - IDEs: &nbsp;
   ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-***
+***  ***
+  
+  **⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=dark&locale=en&hide_border=true" alt="masoumehmohebbi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
