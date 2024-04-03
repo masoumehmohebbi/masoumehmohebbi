@@ -34,14 +34,15 @@
 **🛠 &nbsp;Tech Stack**
 
 - Languages: &nbsp;
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Dart&logoColor=007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 
 - Frameworks: &nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
   ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
   ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 - Databases:  &nbsp;
   ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
