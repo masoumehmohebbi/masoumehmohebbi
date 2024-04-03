@@ -39,7 +39,7 @@
   
 - Frameworks: &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
-  ![Styled-component](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Styled-component)
+  ![Styled-component](https://img.shields.io/badge/-Styled-component-333333?style=flat&logo=Styled-component)
 
 - Styles : &nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![Styled Component](https://img.shields.io/badge/-Styled-Component-333333?style=flat&logo=styled-component)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) 
