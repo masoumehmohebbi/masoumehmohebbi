@@ -27,6 +27,14 @@
 <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  </p>
  
   ***
+  
+  **⚙️ &nbsp;GitHub Analytics**
+<table style="width:100%">
+  <tr>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=dark&locale=en&hide_border=true" alt="masoumehmohebbi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehmohebbi&theme=dark&hide_border=true&layout=compact"></td>
+  </tr>
+</table>
 
 **🛠 &nbsp;Tech Stack**
 
