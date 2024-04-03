@@ -69,6 +69,10 @@
 ***
   
   **⚙️ &nbsp;GitHub Analytics**
+  <summary>
+  <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25">
+  <span>𝗚𝗶𝘁𝗵𝘂𝗯 Analytics</span>
+</summary>
 <table style="width:100%">
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=masoumehmohebbi&show_icons=true&theme=dark&locale=en&hide_border=true" alt="masoumehmohebbi" /></td>
@@ -76,3 +80,5 @@
   </tr>
 </table>
 
+***
+<h3>𝗧𝗵𝗮𝗻𝗸𝘀 𝗙𝗼𝗿 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h3>
