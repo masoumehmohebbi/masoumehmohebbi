@@ -42,7 +42,7 @@
   ![Styled-components](https://img.shields.io/badge/-Styled-components-333333?style=flat&logo=Styled-components)
 
 - Styles : &nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![Styled Component](https://img.shields.io/badge/-Styled-Component-333333?style=flat&logo=styled-component)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) 
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![Styled Components](https://img.shields.io/badge/-Styled-Components-333333?style=flat&logo=styled-components)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css) 
    
 - State Managment: &nbsp;
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
