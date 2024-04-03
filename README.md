@@ -59,13 +59,11 @@
 <div align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
 </h3> 
+  
 <p align="center">
-    <a href="https://linkedin.com/in/masoumemohebbi"  target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
-    <a href="https://instagram.com/masoume.frontend.js" target="_blank"><img alt="Instagram" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg"></a>
-    <a href="masoumeh.mohebbi@gmail.com" target="_blank"><img alt="Gmail" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg"></a> 
-
-
 <a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telagram&logoColor=white"/> </a>
+<a href="https://instagram.com/masoume.frontend.js"><img src="https://img.shields.io/badge/Instagran-0077B5?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+<a href="masoumeh.mohebbi@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>  
 </div>
