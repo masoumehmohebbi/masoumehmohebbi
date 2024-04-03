@@ -17,6 +17,9 @@
 - 💬 Ask me about **front-end web development**
 
 - 📫 How to reach me **masoumeh.mohebbi@gmail.com**
+  
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PhO3SZmTmDoO83PsWVXZnnjoFy_x1q9z/view?usp=drive_link).
+
 
 
 <h3 align="left">Languages and Tools:</h3>
