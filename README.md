@@ -50,12 +50,13 @@
    
 - State Managment: &nbsp;
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
- ![Thanstack Query](https://img.shields.io/badge/-Thanstack_Query-333333?style=flat&logo=thanstack-query)
+
 - Form Validation: &nbsp;
   ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
   
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
 
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
