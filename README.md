@@ -52,7 +52,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
 
 - Tools:  &nbsp;
-  ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
