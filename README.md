@@ -52,7 +52,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
 
 - Form Validation: &nbsp;
-  ![React-Hook Form](https://img.shields.io/badge/-React-hook-form-333333?style=flat&logo=React-hook-form)
+  ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
   
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
