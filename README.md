@@ -56,7 +56,8 @@
 
 - Project Management: &nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
- 
+
+ - Testing:  &nbsp;
     
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
