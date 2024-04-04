@@ -53,10 +53,15 @@
 
 - Form Validation: &nbsp;
   ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
-  
+
+- Project Management: &nbsp;
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
+ 
+    
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+  ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
 
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
