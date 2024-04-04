@@ -41,7 +41,6 @@
 
 - Libraries: &nbsp;
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React.js)
-  ![React-hook-form](https://img.shields.io/badge/-React-hook-form-333333?style=flat&logo=React-hook-form)
   
 - Frameworks: &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
@@ -52,6 +51,9 @@
 - State Managment: &nbsp;
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
 
+- Form Validation: &nbsp;
+  ![React-Hook Form](https://img.shields.io/badge/-React-hook-form-333333?style=flat&logo=React-hook-form)
+  
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
