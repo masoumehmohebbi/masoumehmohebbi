@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **masoumeh.mohebbi@gmail.com**
   
--  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PhO3SZmTmDoO83PsWVXZnnjoFy_x1q9z/view?usp=drive_link23).
+-  📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1_rBlVYoieEPfx5IwcGYbIVmMFBNz1MKF/view?usp=drive_link).
 
 
 ***
