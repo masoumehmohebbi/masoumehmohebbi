@@ -63,6 +63,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
+  ![Github Pages](https://img.shields.io/badge/-Github_Pages-333333?style=flat&logo=github-pages)
 
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
