@@ -41,6 +41,7 @@
 
 - Libraries: &nbsp;
   ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React.js)
+  ![React-hook-form](https://img.shields.io/badge/-React-hook-form-333333?style=flat&logo=React-hook-form)
   
 - Frameworks: &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
