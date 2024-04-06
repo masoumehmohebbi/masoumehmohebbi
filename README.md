@@ -8,7 +8,7 @@
 <p align="center">
 <a 
 href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/badge/Telegram-FFA116?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+<a href="https://t.me/masoume_mohebbi"><img src="https://img.shields.io/badge/Telegram-FFA116?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 <a href="https://instagram.com/masoume.frontend.js"><img src="https://img.shields.io/badge/Instagran-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="masoumeh.mohebbi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 </p>  
