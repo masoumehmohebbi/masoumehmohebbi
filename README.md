@@ -53,7 +53,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3) ![Styled Components](https://img.shields.io/badge/-Styled_Components-333333?style=flat&logo=styled-components)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)  
    
 - State Managment: &nbsp;
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-333333?style=flat&logo=redux)  ![React-Query](https://img.shields.io/badge/-React_Query-333333?style=flat&logo=react-query) ![useReducer](https://img.shields.io/badge/-useReducer-333333?style=flat&logo=useReducer)  
 
 - Form Validation: &nbsp;
   ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
