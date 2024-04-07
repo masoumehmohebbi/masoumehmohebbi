@@ -35,8 +35,8 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
 
 ***
 **🛠 &nbsp;Tech Stack**
-<"https://giphy.com/gifs/gamemud-irregly-app-Vi5rwuAZxWxzXhcrnB">
-<h3>Tech Stack <img height="30" src="https://giphy.com/embed/Vi5rwuAZxWxzXhcrnB"></h3>
+
+ **<img src="https://giphy.com/gifs/gamemud-irregly-app-Vi5rwuAZxWxzXhcrnB" height="25"> &nbsp;Tech Stack **
 - Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
