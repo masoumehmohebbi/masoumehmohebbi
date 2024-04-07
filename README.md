@@ -44,7 +44,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
 
 - Libraries: &nbsp;
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=React.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
   
 - Frameworks: &nbsp;
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=Next.js)
