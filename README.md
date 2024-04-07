@@ -38,7 +38,6 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
 
 
  **<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVxOW42ZHExcm85dXFnd3BuYjc2anJyb3R1MW8xNDN1OGd3NnhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vi5rwuAZxWxzXhcrnB/giphy.gif" height="25">&nbsp;Tech Stack**
-  **<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVxOW42ZHExcm85dXFnd3BuYjc2anJyb3R1MW8xNDN1OGd3NnhzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vi5rwuAZxWxzXhcrnB/giphy.gif" height="25"> &nbsp;Tech Stack**
  
 - Languages: &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
