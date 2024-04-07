@@ -65,6 +65,8 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
   ![Github Pages](https://img.shields.io/badge/-Github_Pages-333333?style=flat&logo=github-pages)
+  ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+  ![Netlify](https://img.shields.io/badge/-Netlify-333333?style=flat&logo=netlify)
 
 - Databases:  &nbsp;
   ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
