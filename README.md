@@ -57,6 +57,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
 
 - Form Validation: &nbsp;
   ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=react-hook-form)
+  ![Formik](https://img.shields.io/badge/-Formik-333333?style=flat&logo=formik)
 
 - Project Management: &nbsp;
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
