@@ -62,7 +62,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
 
  - Testing:  &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=jest)
+  ![Jest](https://img.shields.io/badge/-Git-333333?style=flat&logo=jest)
     
 - Tools:  &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
