@@ -23,7 +23,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🤝 I’m looking for a **company** to hire as a front-end developer or a **team** to work on real projects.
+- 🤝 I’m looking for a **team** to work with as a **freelancer**.
 
 - 💬 Ask me about **front-end web development**
 
