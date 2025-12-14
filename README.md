@@ -21,7 +21,7 @@ href="https://linkedin.com/in/masoumemohebbi"><img src="https://img.shields.io/b
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking for a **team** to work with as a **freelancer**.
 
